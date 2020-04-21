@@ -1,0 +1,46 @@
+body,html{
+	height:100%;
+}
+#wrapper{
+	background-color:black;
+	height: 100%; 
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border:15px solid blue;
+	border-radius: 10px;
+	padding:10px;
+	position:relative;
+	
+}
+
+h1{
+	text-align:center;
+	text-transform: uppercase;
+	font-family: Comic Sans MS, cursive, sans-serif;
+	color: white;
+	font-size: 42px;
+	
+}
+
+#calculator-body{
+	text-align:center;
+	margin: auto;
+  width: 500px;
+  border: 3px solid blue;
+  padding: 20px;
+}
+
+.button{
+	background-color:yellow;
+	width:50px;
+	Height: 50px;
+	
+}
+
+.line{
+	width:215px;
+	padding:20px;
+	margin:10px;
+	font-size: 15px;
+}
