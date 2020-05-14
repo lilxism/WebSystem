@@ -157,6 +157,7 @@ if(!isset($_POST['submit'])){
     $w_os=$_POST['w_os'];
     $h_os=$_POST['h_os'];
 
+    echo "Your Information:<br/> ";
     echo "name: $name <br/>";
     echo "username: $username <br/>";
     echo "email: $email <br/>";
